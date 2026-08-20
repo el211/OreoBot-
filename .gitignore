@@ -1,0 +1,9 @@
+config.json
+*.bin
+.gocache/
+.claude/
+myconfig.json
+discord-bot_BACKUP/
+test
+egg-*.json
+start.sh
